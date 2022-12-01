@@ -1,8 +1,5 @@
-from calendar import THURSDAY
-
 
 bigList = []
-littleList = []
 
 with open('input.txt') as f:
     lines = f.readlines()
